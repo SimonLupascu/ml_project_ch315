@@ -10,7 +10,7 @@ dependencies:
   - scikit-learn
   - scipy
   - numpy
-  - python
+  - python=3.11
   - py-xgboost
   - jupyterlab
   - nb_conda
@@ -20,3 +20,4 @@ dependencies:
   - seaborn
   - notebook<7.0.0
   - pymatviz
+  - setuptools<81
